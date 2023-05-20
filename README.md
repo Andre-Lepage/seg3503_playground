@@ -1,4 +1,11 @@
 # seg3503_playground
-seg 3503 homework and labs
+Seg 3503 homework and labs
 
-André Lepage
+| Outline  | Value  |  
+|---|---|
+| Name  | André Lepage   | 
+| Student Number  | 300215137  | 
+| Course | SEG 3503  | 
+| DATE  | spring/summer 2023  |  
+| Professor  |  Mohamed Ibrahim |  
+| TA  | Joseph Bonasara  | 
