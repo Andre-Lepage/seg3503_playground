@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="newmath_java/src"/>
+	<classpathentry kind="src" path="newmath_java/test"/>
+	<classpathentry kind="src" path="newmath_java/newmath_java/src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="newmath_java/lib/junit-jupiter-api-5.9.2.jar"/>
+	<classpathentry kind="lib" path="newmath_java/lib/junit-jupiter-engine-5.9.2.jar"/>
+	<classpathentry kind="lib" path="newmath_java/lib/junit-jupiter-engine-5.9.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="newmath_java/lib/junit-jupiter-engine-5.9.2-sources.jar"/>
+	<classpathentry kind="lib" path="newmath_java/lib/junit-jupiter-api-5.9.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="newmath_java/lib/junit-jupiter-api-5.9.2-sources.jar"/>
+	<classpathentry kind="lib" path="newmath_java/lib/junit-platform-console-standalone-1.9.2 (1).jar"/>
+	<classpathentry kind="output" path="newmath_java/dist"/>
+</classpath>
