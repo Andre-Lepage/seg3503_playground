@@ -15,5 +15,6 @@
 	<classpathentry kind="lib" path="ecs/lib/junit-jupiter-engine-5.9.2-javadoc.jar"/>
 	<classpathentry kind="lib" path="ecs/lib/junit-jupiter-engine-5.9.2-sources.jar"/>
 	<classpathentry kind="lib" path="ecs/lib/junit-platform-console-standalone-1.9.2.jar"/>
+	<classpathentry kind="lib" path="computation/test/ComputationTest.java"/>
 	<classpathentry kind="output" path="ecs/dist"/>
 </classpath>
