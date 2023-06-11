@@ -2,15 +2,15 @@
 
 Exécution de Computation avec Couvrage
 
-![Run Computation](/Lab03/assets/computation-run-with-coverage.png "Run Computation")
+![Run Computation](assets/computation-run-with-coverage.png "Run Computation")
 
 Couvrage de Date avant d'ajouter d'autres tests
 
-![Date coverage before](/Lab03/assets/date-before-refactor.png "Date coverage before")
+![Date coverage before](assets/date-before-refactor.png "Date coverage before")
 
 Run Date avant d'ajouter d'autres tests
 
-![Date run before](/Lab03/assets/date-before-refactor-tests-run.png "Date run before")
+![Date run before](assets/date-before-refactor-tests-run.png "Date run before")
 # Ajouter Les Tests
 
 Tests Ajouter:
@@ -148,11 +148,11 @@ class DateTestImproveCoverage {
 
 Couvrage de Date après d'ajouter d'autres tests
 
-![Date coverage after](/Lab03/assets/date-after-adding-tests.png "Date coverage after")
+![Date coverage after](assets/date-after-adding-tests.png "Date coverage after")
 
 Run Date après d'ajouter d'autres tests
 
-![Date run after](/Lab03/assets/date-after-adding-tests-run.png "Date run after")
+![Date run after](assets/date-after-adding-tests-run.png "Date run after")
 
 # Refactoring
 
@@ -161,9 +161,9 @@ Je l'ai déja achevé sans avoir besoin de faire le refactoring. Le refactoring 
 
 Code avant le refactoring
 
-![Code before refactoring](/Lab03/assets/code-before-refactor.png "Code before refactoring")
+![Code before refactoring](assets/code-before-refactor.png "Code before refactoring")
 
 Code après le refactoring
 
-![Code after refactoring](/Lab03/assets/code-after-refactor.png "Code after refactoring")
+![Code after refactoring](assets/code-after-refactor.png "Code after refactoring")
 
