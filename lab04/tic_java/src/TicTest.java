@@ -15,4 +15,11 @@ public class TicTest {
 		board.place("X", 1, 2);
 		assertEquals("X", board.getCell( 1, 2));	
 	}
+
+	@Test
+	void getNumberOfRowsTest() {
+		Tic board = new Tic (3,3);
+	
+		assertEquals(3, board.getNumberOfRows());
+	}
 }

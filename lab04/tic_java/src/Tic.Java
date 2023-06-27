@@ -26,4 +26,9 @@ public class Tic {
 	public void place(String value, int row, int column) {
 		board[row][column] = value;
 	}
+
+	public Integer getNumberOfRows() {
+		
+		return null;
+	}
 }
