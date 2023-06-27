@@ -19,7 +19,7 @@ public class Tic {
     }
 
     public String getCell(int row, int column) {
-		
-		//return null;
+		String cell = board[row][column];
+		return cell;
 	}
 }
