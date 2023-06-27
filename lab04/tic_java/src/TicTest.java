@@ -22,4 +22,12 @@ public class TicTest {
 	
 		assertEquals(3, board.getNumberOfRows());
 	}
+
+	@Test
+	void getNumberOfColumnsTest() {
+		Tic board = new Tic (3,3);
+	
+		assertEquals(3, board.getNumberOfRows());
+	}
+	
 }

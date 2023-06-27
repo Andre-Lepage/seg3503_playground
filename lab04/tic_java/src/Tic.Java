@@ -30,4 +30,8 @@ public class Tic {
 	public Integer getNumberOfRows() {
 		return rows;
 	}
+
+	public Integer getNumberOfColumns() {
+		return null;
+	}
 }
