@@ -36,6 +36,15 @@ public class Tic {
 	}
 
 	public Boolean isFull() {
-		return null;
+		boolean full = true;
+		for(int i = 0; i<rows; i++) {
+			for(int j = 0; j<cols; j++) {
+				if (board[i][j] == "_") {
+					 full = false;
+					 break;
+				}
+			}
+		} 
+		return full;
 	}
 }
