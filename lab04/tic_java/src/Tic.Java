@@ -22,4 +22,8 @@ public class Tic {
 		String cell = board[row][column];
 		return cell;
 	}
+
+	public void place(String value, int row, int column) {
+		
+	}
 }
