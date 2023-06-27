@@ -34,4 +34,8 @@ public class Tic {
 	public Integer getNumberOfColumns() {
 		return cols;
 	}
+
+	public Boolean isFull() {
+		return null;
+	}
 }
