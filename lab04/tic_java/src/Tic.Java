@@ -32,6 +32,6 @@ public class Tic {
 	}
 
 	public Integer getNumberOfColumns() {
-		return null;
+		return cols;
 	}
 }
