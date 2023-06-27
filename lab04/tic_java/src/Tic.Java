@@ -28,7 +28,6 @@ public class Tic {
 	}
 
 	public Integer getNumberOfRows() {
-		
-		return null;
+		return rows;
 	}
 }
