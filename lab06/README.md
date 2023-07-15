@@ -59,6 +59,8 @@ this command did not work so I had to use java -jar bookstore5.jar and it worked
 
 ```
 
+This test tests the login fucntionality of the app. When we go to http://localhost:8080/admin we should be redirected to http://localhost:8080/login. Once we login with the proper credentials we should arrive at the http://localhost:8080/admin page wehre we can add books.
+
 ### mvn-test after adding  additional test
 ![test-after](assets6/mvn-test-after-adding.png "test-after")
 
